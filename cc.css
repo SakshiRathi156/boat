@@ -99,21 +99,7 @@ section{
     margin-top: 50px;
 
 }
-/* .home-img{
-    width: 125%;
-    height: 90vh;
-} */
 
-/* .home-content h3{
-    font-size: 3.2rem;
-    font-weight: 700;
-}
-.home-content h3:nth-of-type(2){
-    margin-bottom: 2rem;
-}
-span{
-    color: var(--main-color);
-} */
 .home-content h1{
     display: flex;
     color:transparent;
@@ -165,29 +151,10 @@ span{
     filter: blur(0.5px);
     font-style: normal;
 }
-/* .searchbox:hover{
-    background: #cccccc;
-    color: #f0f0f0;
-    box-shadow:0 0 0  rgba(255, 255, 255, 0.5);
-}  */
+
 .social-media a:hover{
     background: #cccccc;
     color: #f0f0f0;
     box-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
 }
-/* .btn{
-  display: inline-block;
-  padding: 1rem 2.8rem;
-  background: var(--main-color);
-  border-radius: 4rem;
-  box-shadow: 0 0 1rem var(--main-color);
-  font-size: 1.6rem;
-  font-weight: 600;
-  color: var(--second-bg-color);
-  letter-spacing: .1rem;  
-  transition: .5s ease;
-}
-/* box shadow-horizontal,vertical,and blur radius. */
-/* .btn:hover{
-    box-shadow:none;
-} */
+
