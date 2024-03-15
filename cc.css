@@ -181,7 +181,7 @@ section{
     }
     .body{
         width:100%;
-        height:auto;
+         min-height: auto;
     }
 }
 
