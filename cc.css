@@ -157,4 +157,27 @@ section{
     color: #f0f0f0;
     box-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
 }
+@media (max-width: 400px){
+    .home-content h1{
+        font-size: 3rem;
+    }
+    .searchbox input{
+        width: 8.2rem;
+        height: 1.5;
+        border: .3rem solid #dcdcdc; 
+        font-size: 1rem;
+        
+    }
+    .logo{
+        font-size: 2rem;
+    }
+    .social-media a{
+    width: 2rem;
+    height: 3rem;
+    border: .2rem solid #dcdcdc;
+    border-radius:30%;
+    font-size: 1rem;
+    margin: 2.5rem 1rem 2.5rem 0;
+    }
+}
 
