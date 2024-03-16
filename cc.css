@@ -181,7 +181,7 @@ section{
     }
     .body{
         width:100%;
-         min-height: auto;
+         height:100%;
         background-size: contain;
     background-position: center;
     }
